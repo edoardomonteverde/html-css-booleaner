@@ -1,20 +1,20 @@
 /* Styles for the header */
 
-header{
-
-    height: 10%;
-    background-color:yellow;
-    background-size:30%;
-    background-image:url(img/pattern.png)
-    
-}
-
 .logo{
 
     height: 100px;
     width: 250px;
-    text-align:center;
+    padding-top:20px;
+    
+}
 
+header{
+
+    height:110px;
+    background-color:rgb(0, 221, 255);
+    background-size:30%;
+    background-image:url(img/pattern.png)
+    
 }
 
 /* Styles for the main content */ 
