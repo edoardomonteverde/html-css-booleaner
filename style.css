@@ -1,0 +1,24 @@
+/* Styles for the header */
+
+header{
+
+    height: 10%;
+    background-color:yellow;
+    background-size:30%;
+    background-image:url(img/pattern.png)
+    
+}
+
+.logo{
+
+    height: 100px;
+    width: 250px;
+    text-align:center;
+
+}
+
+/* Styles for the main content */ 
+
+
+
+
