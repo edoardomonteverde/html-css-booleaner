@@ -19,6 +19,22 @@ header{
 
 /* Styles for the main content */ 
 
+h1{
+    margin-bottom: 0cm;
+    font-size: 50px;;
+}
 
+.subtitle{
+
+    color:rgb(141, 140, 140);
+}
+
+.data{
+    font-size: small;
+}
+
+#thebooleaner {
+    color: cyan;
+}
 
 
