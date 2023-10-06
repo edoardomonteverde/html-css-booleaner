@@ -21,20 +21,80 @@ header{
 
 h1{
     margin-bottom: 0cm;
-    font-size: 50px;;
+    font-size: 45px;;
 }
 
-.subtitle{
+
+
+.grey-typo{
 
     color:rgb(141, 140, 140);
+
 }
 
-.data{
-    font-size: small;
+.small-typo{
+    font-size: smaller;
 }
 
 #thebooleaner {
     color: cyan;
 }
+
+
+table{
+
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead{
+
+    background-color:mediumslateblue
+    
+} 
+
+th{
+    color:aliceblue;
+   
+    min-width: 300px;
+}
+
+.background-cyan{
+
+    background-color: cyan;
+
+}
+
+
+#article-1{
+
+    color:aliceblue;
+    font-weight:bold;
+    height: 150px;
+    width: 220px;
+    background-size:cover;
+    background-image: url(img/graph.jpg);
+
+}
+
+
+#article-2{
+
+    color:aliceblue;
+    font-weight:bold;
+    height: 150px;
+    width: 220px;
+    background-size:cover;
+    background-image:url(img/monitor.jpg);
+    
+}
+
+
+
+devo committare poi vedere come risolvere - creando due contenitori distinti e ragionando sui contenitori nella pagina utilizzando l'inspector
+guardare la lezione di correzione e andare avanti
+
+
+
 
 
